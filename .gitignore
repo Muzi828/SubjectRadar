@@ -1,7 +1,21 @@
+# SafeLens local runtime
 __pycache__/
-*.pyc
-data/
-logs/
-_tmp/
+*.py[cod]
+.edge-tmp/
+edge-profile-test/
+edge-cdp-profile/
 *.log
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/sync.lock
+data/pdfs/
+logs/*.log
+shot-*.png
+tmp_probe.py
+crossref.json
+sd.xml
+# agent / editor temp
+.playwright-cli/
+_tmp/
 .vscode/

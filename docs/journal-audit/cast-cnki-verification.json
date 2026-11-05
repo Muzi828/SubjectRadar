@@ -1,0 +1,74 @@
+{
+  "cast": {
+    "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+    "screenshot": "docs/journal-audit/journal-safety-and-environment-source.png",
+    "metadata_fields": [
+      "title_zh",
+      "title",
+      "affiliations_zh",
+      "affiliations",
+      "authors_zh",
+      "authors",
+      "funding_zh",
+      "funding",
+      "abstract_zh",
+      "abstract",
+      "keywords_zh",
+      "keywords",
+      "citation_text",
+      "pdf_url",
+      "doi",
+      "affiliations_en",
+      "download_links"
+    ],
+    "pdf_check": {
+      "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+      "status": "passed",
+      "checked_at": "2026-11-05T08:24:52.831868+00:00",
+      "bytes_read": 1024,
+      "final_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "reason": "已读取 PDF 文件头 %PDF-"
+    },
+    "title": "露天矿粉尘扩散机理研究进展及展望",
+    "paper_id": 813,
+    "browser_button": "CAST onclick openPDFLink PDF button clicked and browser download completed"
+  },
+  "cnki": {
+    "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+    "screenshot": "docs/journal-audit/safety-and-environmental-engineering-source.png",
+    "metadata_fields": [
+      "title_zh",
+      "title",
+      "funding_zh",
+      "funding",
+      "doi",
+      "authors_zh",
+      "authors",
+      "affiliations_zh",
+      "affiliations",
+      "abstract_zh",
+      "abstract",
+      "abstract_en",
+      "keywords_zh",
+      "keywords",
+      "keywords_en",
+      "pdf_url",
+      "download_links"
+    ],
+    "pdf_check": {
+      "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+      "status": "passed",
+      "checked_at": "2026-11-05T08:24:53.409809+00:00",
+      "bytes_read": 1024,
+      "final_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+      "http_status": 200,
+      "content_type": "application/octet-stream",
+      "reason": "已读取 PDF 文件头 %PDF-"
+    },
+    "title": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+    "paper_id": 682,
+    "browser_button": "CNKI full-text menu PDF uses downloadFull; backend endpoint signature verified"
+  }
+}

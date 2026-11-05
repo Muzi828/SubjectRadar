@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <script>try{var _t=localStorage.getItem('slw.theme');if(_t==='dark'){document.documentElement.dataset.theme='dark';}}catch(e){}</script>
+  <title>SafeLens Web · 安全科学论文雷达</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="static/styles.css?v=20261106a">
+</head>
+<body>
+  <svg class="svg-sprite" aria-hidden="true">
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V21h13V9.5"/><path d="M9.5 21v-6h5v6"/></symbol>
+    <symbol id="i-inbox" viewBox="0 0 24 24"><path d="M4 5h16l1.5 8.5V19h-19v-5.5L4 5Z"/><path d="M3 13h5l1.5 2h5L16 13h5"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 3 2.8 5.8 6.2.9-4.5 4.4 1.1 6.2L12 17.4l-5.6 2.9 1.1-6.2L3 9.7l6.2-.9L12 3Z"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></symbol>
+    <symbol id="i-archive" viewBox="0 0 24 24"><path d="M3 7h18v4H3z"/><path d="M5 11v9h14v-9"/><path d="M10 15h4"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="8" height="8" rx="1"/><rect x="13" y="3" width="8" height="8" rx="1"/><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.9l.1.1-2.8 2.8-.1-.1a1.7 1.7 0 0 0-1.9-.3 1.7 1.7 0 0 0-1 1.6v.2h-4V21a1.7 1.7 0 0 0-1-1.6 1.7 1.7 0 0 0-1.9.3l-.1.1L4.2 17l.1-.1a1.7 1.7 0 0 0 .3-1.9A1.7 1.7 0 0 0 3 14H2.8v-4H3a1.7 1.7 0 0 0 1.6-1 1.7 1.7 0 0 0-.3-1.9L4.2 7 7 4.2l.1.1a1.7 1.7 0 0 0 1.9.3A1.7 1.7 0 0 0 10 3v-.2h4V3a1.7 1.7 0 0 0 1 1.6 1.7 1.7 0 0 0 1.9-.3l.1-.1L19.8 7l-.1.1a1.7 1.7 0 0 0-.3 1.9 1.7 1.7 0 0 0 1.6 1h.2v4H21a1.7 1.7 0 0 0-1.6 1Z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m16.5 16.5 4 4"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 11a8 8 0 0 0-14.7-4L3 10"/><path d="M3 4v6h6"/><path d="M4 13a8 8 0 0 0 14.7 4L21 14"/><path d="M21 20v-6h-6"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="m20 4-9 9"/><path d="M20 14v6H4V4h6"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m4 12.5 5 5L20 6.5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-chevron-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-chevron-left" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></symbol>
+    <symbol id="i-chevron-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></symbol>
+    <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 15V3"/><path d="m7 8 5-5 5 5"/><path d="M4 21h16"/></symbol>
+    <symbol id="i-bell" viewBox="0 0 24 24"><path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9"/><path d="M10 21h4"/></symbol>
+    <symbol id="i-note" viewBox="0 0 24 24"><path d="M5 3h11l3 3v15H5z"/><path d="M9 9h6M9 13h6M9 17h4"/></symbol>
+    <symbol id="i-filter" viewBox="0 0 24 24"><path d="M3 5h18l-7 8v6l-4 2v-8L3 5Z"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-6.5 8-6.5s8 2.5 8 6.5"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 15.5A8.5 8.5 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v18H6.5A2.5 2.5 0 0 0 4 22V4.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 2.5 14 9l6.5 2-6.5 2-2 6.5-2-6.5L3.5 11 10 9l2-6.5Z"/></symbol>
+  </svg>
+
+  <!-- 登录 / 注册 -->
+  <div class="auth-wrap" id="auth-view">
+    <div class="auth-card">
+      <div class="brand" style="justify-content:center">
+        <div class="brand-mark" aria-hidden="true">
+          <span class="brand-ring r1"></span><span class="brand-ring r2"></span><span class="brand-dot"></span>
+        </div>
+        <div class="brand-text">
+          <div class="brand-name"><span>Safe</span><em>Lens</em></div>
+          <div class="brand-sub">安全科学论文雷达 · 在线版</div>
+        </div>
+      </div>
+      <div class="auth-tabs">
+        <button class="auth-tab active" id="tab-login" type="button">登录</button>
+        <button class="auth-tab" id="tab-register" type="button">注册</button>
+      </div>
+      <label class="field"><span>用户名</span><input id="auth-name" autocomplete="username" placeholder="给自己起个名字"></label>
+      <label class="field"><span>密码</span><input id="auth-pass" type="password" autocomplete="current-password" placeholder="仅保存在本机浏览器"></label>
+      <button class="btn btn-primary auth-submit" id="auth-submit" type="button">登录</button>
+      <p class="auth-note" id="auth-note">纯本地账号：档案、密码散列与全部文献数据都只存在这台电脑的浏览器里，不会上传到任何服务器。换设备可用“导出我的数据”迁移。</p>
+    </div>
+  </div>
+
+  <!-- 主应用 -->
+  <div class="app-shell hidden" id="app-shell">
+    <div class="mobile-scrim" id="mobile-scrim"></div>
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <span class="brand-ring r1"></span><span class="brand-ring r2"></span><span class="brand-dot"></span>
+        </div>
+        <div class="brand-text">
+          <div class="brand-name"><span>Safe</span><em>Lens</em></div>
+          <div class="brand-sub">安全科学论文雷达</div>
+        </div>
+      </div>
+      <nav class="main-nav" aria-label="主导航">
+        <a class="nav-item" href="#/home" data-nav="home"><svg><use href="#i-home"></use></svg><span>总览</span></a>
+        <a class="nav-item" href="#/today" data-nav="today"><svg><use href="#i-spark"></use></svg><span>今日新增</span><b class="nav-count accent" id="count-today">0</b></a>
+        <a class="nav-item" href="#/inbox" data-nav="inbox"><svg><use href="#i-inbox"></use></svg><span>待读</span><b class="nav-count" id="count-inbox">0</b></a>
+        <a class="nav-item" href="#/starred" data-nav="starred"><svg><use href="#i-star"></use></svg><span>收藏</span><b class="nav-count" id="count-starred">0</b></a>
+        <a class="nav-item" href="#/later" data-nav="later"><svg><use href="#i-clock"></use></svg><span>稍后读</span><b class="nav-count" id="count-later">0</b></a>
+        <a class="nav-item" href="#/watch" data-nav="watch"><svg><use href="#i-bell"></use></svg><span>作者关注</span><b class="nav-count" id="count-watch">0</b></a>
+        <a class="nav-item" href="#/all" data-nav="all"><svg><use href="#i-book"></use></svg><span>全部论文</span><b class="nav-count" id="count-all">0</b></a>
+        <a class="nav-item" href="#/archive" data-nav="archive"><svg><use href="#i-archive"></use></svg><span>归档</span></a>
+      </nav>
+      <div class="side-section">
+        <div class="side-heading"><span>我的期刊</span></div>
+        <div class="journal-nav" id="journal-nav"></div>
+      </div>
+      <div class="sidebar-footer">
+        <div class="sidebar-bottom-row">
+          <div class="sidebar-check-meta" id="sidebar-user-wrap">
+            <button class="user-chip" id="user-chip" title="账户与数据"><svg><use href="#i-user"></use></svg><span id="sidebar-user">—</span></button>
+          </div>
+          <button class="sidebar-icon-action theme-toggle" id="theme-toggle" title="切换主题" aria-label="切换主题">
+            <svg class="theme-icon-light"><use href="#i-moon"></use></svg>
+            <svg class="theme-icon-dark"><use href="#i-sun"></use></svg>
+          </button>
+          <button class="sidebar-icon-action" id="sidebar-settings" title="设置" aria-label="设置">
+            <svg><use href="#i-settings"></use></svg>
+          </button>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <button class="icon-btn mobile-menu floating-menu" id="mobile-menu" aria-label="打开导航"><svg><use href="#i-menu"></use></svg></button>
+      <div class="view-wrap">
+        <section class="view hidden" id="view-home">
+          <div class="hero">
+            <div class="hero-copy">
+              <div class="hero-kicker" id="hero-kicker"></div>
+              <h2 id="hero-title">安全科学论文雷达</h2>
+              <div class="hero-actions">
+                <a class="btn btn-dark" href="#/today" id="hero-today">查看今日新增 <svg><use href="#i-chevron-right"></use></svg></a>
+              </div>
+            </div>
+            <div class="radar-wrap" aria-hidden="true">
+              <div class="radar">
+                <span class="radar-ring ring-a"></span><span class="radar-ring ring-b"></span>
+                <span class="radar-ring ring-c"></span><span class="radar-sweep"></span>
+                <span class="radar-core"><b id="hero-count">0</b><small>NEW</small></span>
+              </div>
+              <div class="radar-caption" id="radar-caption">LIVE</div>
+            </div>
+          </div>
+          <div class="stat-grid">
+            <article class="stat-card"><div class="stat-icon terracotta"><svg><use href="#i-spark"></use></svg></div><div><span class="stat-label">今日新增</span><b id="stat-today">0</b><small id="stat-today-sub">—</small></div></article>
+            <article class="stat-card"><div class="stat-icon teal"><svg><use href="#i-inbox"></use></svg></div><div><span class="stat-label">待读论文</span><b id="stat-unread">0</b><small>未读且未归档</small></div></article>
+            <article class="stat-card"><div class="stat-icon gold"><svg><use href="#i-star"></use></svg></div><div><span class="stat-label">已收藏</span><b id="stat-starred">0</b><small>你的重点标记</small></div></article>
+            <article class="stat-card"><div class="stat-icon slate"><svg><use href="#i-grid"></use></svg></div><div><span class="stat-label">覆盖期刊</span><b id="stat-journals">0</b><small id="stat-journals-sub">安全科学核心刊</small></div></article>
+          </div>
+          <div class="dashboard-grid">
+            <section class="panel latest-panel">
+              <header class="panel-head"><div><span class="panel-kicker">LATEST ARRIVALS</span><h3>最近入库</h3></div><a class="text-link" href="#/all">查看全部 <svg><use href="#i-chevron-right"></use></svg></a></header>
+              <div id="latest-list" class="paper-list compact-list"></div>
+            </section>
+            <aside class="dashboard-rail">
+              <section class="panel">
+                <header class="panel-head small"><div><span class="panel-kicker">RESEARCH SIGNALS</span><h3>关键词 / 主题</h3></div></header>
+                <div class="topic-cloud" id="topic-cloud"></div>
+              </section>
+            </aside>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-papers">
+          <div class="paper-toolbar">
+            <div class="toolbar-row search-tools">
+              <div class="toolbar-label">检索</div>
+              <div class="search-row">
+                <label class="field-picker"><span>搜索字段</span>
+                  <select id="search-field" aria-label="搜索字段">
+                    <option value="interests">关注点</option><option value="all" selected>全部字段</option>
+                    <option value="title">标题</option><option value="author">作者</option>
+                    <option value="abstract">摘要</option><option value="doi">DOI</option><option value="journal">期刊</option>
+                  </select>
+                </label>
+                <div class="search-slot">
+                  <label class="search-box page-search" for="search-input">
+                    <svg><use href="#i-search"></use></svg>
+                    <input id="search-input" type="search" placeholder="输入关键词…" autocomplete="off">
+                    <kbd>Ctrl K</kbd>
+                  </label>
+                </div>
+                <button class="btn-search" id="search-submit">检索</button>
+              </div>
+            </div>
+            <div class="toolbar-row filter-tools">
+              <div class="toolbar-label">筛选</div>
+              <div class="filter-row">
+                <div class="inline-filters">
+                  <select id="filter-journal" aria-label="期刊"><option value="">全部期刊</option></select>
+                  <select id="filter-topic" aria-label="主题"><option value="">全部主题</option></select>
+                  <select id="filter-range" aria-label="时间">
+                    <option value="all">全部时间</option><option value="7">近 7 天</option><option value="30">近 30 天</option><option value="90">近 90 天</option>
+                  </select>
+                  <select id="filter-sort" aria-label="排序">
+                    <option value="interest" selected>关注优先</option><option value="newest">最新入库</option>
+                    <option value="published">出版日期</option><option value="cited">引用最多</option><option value="title">标题 A-Z</option>
+                  </select>
+                </div>
+                <button class="reset-filters" id="clear-search">重置</button>
+              </div>
+            </div>
+          </div>
+          <div class="list-actions-bar" id="list-controls">
+            <label class="check-label"><input type="checkbox" id="select-all"><span>全选本页</span></label>
+            <button class="select-all-results" id="select-all-results" type="button">全选全部结果</button>
+            <div class="selection-mode hidden" id="selection-mode">
+              <span class="selection-count" id="selection-count">已选 0 篇</span>
+              <button class="selection-clear" id="selection-clear">清除</button>
+              <div class="selection-actions">
+                <button data-bulk="read">标为已读</button>
+                <button data-bulk="unread">标为未读</button>
+                <button data-bulk="star">收藏</button>
+                <button data-bulk="later">稍后读</button>
+                <button data-bulk="archive">归档</button>
+                <button data-bulk="unarchive">取消归档</button>
+                <button data-bulk="export">导出选中</button>
+              </div>
+            </div>
+          </div>
+          <div class="paper-list" id="paper-list"></div>
+          <div class="pagination" id="pagination"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <div class="drawer-layer hidden" id="drawer-layer" aria-hidden="true">
+    <div class="drawer-scrim" id="drawer-scrim"></div>
+    <aside class="drawer" id="drawer" role="dialog" aria-modal="true">
+      <div class="drawer-top">
+        <span class="drawer-journal" id="drawer-journal"></span>
+        <div class="drawer-top-actions">
+          <button class="icon-btn" id="drawer-prev" title="上一篇"><svg><use href="#i-chevron-left"></use></svg></button>
+          <button class="icon-btn" id="drawer-next" title="下一篇"><svg><use href="#i-chevron-right"></use></svg></button>
+          <button class="icon-btn" id="drawer-close" title="关闭"><svg><use href="#i-x"></use></svg></button>
+        </div>
+      </div>
+      <div class="drawer-body" id="drawer-body"></div>
+    </aside>
+  </div>
+
+  <div class="modal-layer hidden" id="modal-layer" aria-hidden="true">
+    <div class="modal-scrim" id="modal-scrim"></div>
+    <section class="modal" id="modal" role="dialog" aria-modal="true">
+      <header class="modal-head">
+        <div><span class="panel-kicker" id="modal-kicker">SAFELENS</span><h2 id="modal-title">标题</h2></div>
+        <button class="icon-btn" id="modal-close"><svg><use href="#i-x"></use></svg></button>
+      </header>
+      <div class="modal-body" id="modal-body"></div>
+      <footer class="modal-foot" id="modal-foot"></footer>
+    </section>
+  </div>
+
+  <input type="file" id="import-file" accept="application/json" class="hidden">
+  <div class="toast-stack" id="toast-stack" aria-live="polite"></div>
+  <script src="static/app.js?v=20261106a" defer></script>
+</body>
+</html>

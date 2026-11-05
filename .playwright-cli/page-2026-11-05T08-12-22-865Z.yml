@@ -1,0 +1,96 @@
+- generic [ref=f2e2]:
+  - complementary [ref=f2e3]:
+    - generic [ref=f2e9]:
+      - generic [ref=f2e10]:
+        - text: Safe
+        - emphasis [ref=f2e11]: Lens
+      - generic [ref=f2e12]: 安全科学论文雷达
+    - navigation "主导航" [ref=f2e13]:
+      - link "总览" [ref=f2e14] [cursor=pointer]:
+        - /url: "#/home"
+      - link "今日新增 0" [ref=f2e18] [cursor=pointer]:
+        - /url: "#/today"
+        - generic [ref=f2e21]: 今日新增
+        - generic [ref=f2e22]: "0"
+      - link "待读 0" [ref=f2e23] [cursor=pointer]:
+        - /url: "#/inbox"
+        - generic [ref=f2e26]: 待读
+        - generic [ref=f2e27]: "0"
+      - link "收藏 0" [ref=f2e28] [cursor=pointer]:
+        - /url: "#/starred"
+        - generic [ref=f2e31]: 收藏
+        - generic [ref=f2e32]: "0"
+      - link "稍后读 0" [ref=f2e33] [cursor=pointer]:
+        - /url: "#/later"
+        - generic [ref=f2e36]: 稍后读
+        - generic [ref=f2e37]: "0"
+      - link "全部论文 0" [ref=f2e38] [cursor=pointer]:
+        - /url: "#/all"
+        - generic [ref=f2e41]: 全部论文
+        - generic [ref=f2e42]: "0"
+      - link "归档" [ref=f2e43] [cursor=pointer]:
+        - /url: "#/archive"
+    - generic [ref=f2e48]:
+      - generic [ref=f2e49]: 我的期刊
+      - link "管理" [ref=f2e50] [cursor=pointer]:
+        - /url: "#/journals"
+    - generic [ref=f2e52]:
+      - generic [ref=f2e53]: 检查时间：—
+      - button "检查更新" [ref=f2e56] [cursor=pointer]
+      - button "切换到深色主题" [ref=f2e60] [cursor=pointer]
+      - button "设置与数据" [ref=f2e63] [cursor=pointer]
+  - main [ref=f2e66]:
+    - generic [ref=f2e68]:
+      - generic [ref=f2e69]:
+        - generic [ref=f2e70]:
+          - heading [level=2] [ref=f2e71]:
+            - text: 早上好，今天有
+            - emphasis [ref=f2e72]: "0"
+            - text: 篇新论文
+          - generic [ref=f2e73]:
+            - link "查看今日新增" [ref=f2e74] [cursor=pointer]:
+              - /url: "#/today"
+            - button "今日简报" [ref=f2e77] [cursor=pointer]
+        - generic [aria-hidden] [ref=f2e81]:
+          - generic [ref=f2e87]:
+            - generic [ref=f2e88]: "0"
+            - generic [ref=f2e89]: NEW
+          - generic [ref=f2e93]: LIVE · 14 JOURNALS
+      - generic [ref=f2e94]:
+        - article [ref=f2e95]:
+          - generic [ref=f2e99]:
+            - generic [ref=f2e100]: 今日新增
+            - generic [ref=f2e101]: "0"
+            - generic [ref=f2e102]: 等待首次检查
+        - article [ref=f2e103]:
+          - generic [ref=f2e107]:
+            - generic [ref=f2e108]: 待读论文
+            - generic [ref=f2e109]: "0"
+            - generic [ref=f2e110]: 未读且未归档
+        - article [ref=f2e111]:
+          - generic [ref=f2e115]:
+            - generic [ref=f2e116]: 已收藏
+            - generic [ref=f2e117]: "0"
+            - generic [ref=f2e118]: 你的重点标记
+        - article [ref=f2e119]:
+          - generic [ref=f2e123]:
+            - generic [ref=f2e124]: 覆盖期刊
+            - generic [ref=f2e125]: "12"
+            - generic [ref=f2e126]: 官网 RSS 监控
+      - generic [ref=f2e127]:
+        - generic [ref=f2e129]:
+          - generic [ref=f2e130]:
+            - text: LATEST ARRIVALS
+            - heading "最近入库" [level=3] [ref=f2e131]
+          - link "查看全部" [ref=f2e132] [cursor=pointer]:
+            - /url: "#/today"
+        - complementary [ref=f2e139]:
+          - generic [ref=f2e141]:
+            - generic [ref=f2e142]:
+              - text: JOURNAL PULSE
+              - heading "期刊动态" [level=3] [ref=f2e143]
+            - link "全部" [ref=f2e144] [cursor=pointer]:
+              - /url: "#/journals"
+          - generic [ref=f2e147]:
+            - text: RESEARCH SIGNALS
+            - heading "关键词 / 主题" [level=3] [ref=f2e148]

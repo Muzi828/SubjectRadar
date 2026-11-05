@@ -1,0 +1,3520 @@
+[
+  {
+    "slug": "safety-science",
+    "journal": "Safety Science",
+    "id": 806,
+    "title": "Uncovering nonlinear crash risk patterns among instant delivery riders: A latent-variable and interpretable modeling approach",
+    "url": "https://doi.org/10.1016/j.ssci.2026.107535",
+    "doi": "10.1016/j.ssci.2026.107535",
+    "journal_id": 1,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:01.691108+00:00",
+      "source_url": "https://doi.org/10.1016/j.ssci.2026.107535",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0925753526004261",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.ssci.2026.107535",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.ssci.2026.107535",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Zhicheng Jin, Miaojia Lu, Honglin Sheng, Kuldeep Kavta, Gonçalo Homem de Almeida Correia. Uncovering nonlinear crash risk patterns among instant delivery riders: A latent-variable and interpretable modeling approach[J]. Safety Science, 2027, 207: 107535. DOI: 10.1016/j.ssci.2026.107535.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Zhicheng Jin, Miaojia Lu, Honglin Sheng, Kuldeep Kavta, Gonçalo Homem de Almeida Correia. Uncovering nonlinear crash risk patterns among instant delivery riders: A latent-variable and interpretable modeling approach[J]. Safety Science, 2027, 207: 107535. DOI: 10.1016/j.ssci.2026.107535.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ssci.2026.107535"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "a8313d6d17d9ff0bc942a1b6d089e78ee8734014e1ee28433820415a29153e5d",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "china-safety-science-journal",
+    "journal": "中国安全科学学报",
+    "id": 614,
+    "title": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+    "url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+    "doi": "10.16265/j.cnki.issn1003-3033.2026.09.1007",
+    "journal_id": 242,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:01.644316+00:00",
+      "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+      "final_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+      "status": "conflict",
+      "fields": {
+        "title_zh": {
+          "status": "verified",
+          "source_value": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+          "stored_value": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+          "evidence": "meta:citation_title",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "title_en": {
+          "status": "extracted",
+          "source_value": "Fire detection model in confined space based on improved SBR-YOLOv11n",
+          "stored_value": "",
+          "evidence": "meta:citation_title",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "authors_zh": {
+          "status": "verified",
+          "source_value": [
+            "李聪",
+            "许文博",
+            "滕文飞",
+            "汪陈徽",
+            "吴建松"
+          ],
+          "stored_value": [
+            "李聪",
+            "许文博",
+            "滕文飞",
+            "汪陈徽",
+            "吴建松"
+          ],
+          "evidence": "meta:citation_authors",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "authors_en": {
+          "status": "extracted",
+          "source_value": [
+            "Li Cong",
+            "Xu Wenbo",
+            "Teng Wenfei",
+            "Wang Chenhui",
+            "Wu Jiansong"
+          ],
+          "stored_value": [],
+          "evidence": "meta:citation_authors",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "affiliations_zh": {
+          "status": "extracted",
+          "source_value": "1 煤炭精细勘探与智能开发全国重点实验室, 北京 100083 2 中国矿业大学(北京) 应急管理与安全工程学院, 北京 100083 3 中国国家铁路集团有限公司 铁路安全研究中心, 北京 100081",
+          "stored_value": null,
+          "evidence": "html:institution-wrap",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "affiliations_en": {
+          "status": "extracted",
+          "source_value": "1 SKL for Fine Exploration and Intelligent Development of Coal Resources, Beijing 100083, China 2 School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China 3 Railway Safety Research Center, China State Railway Group Co., Ltd., Beijing 100081, China",
+          "stored_value": null,
+          "evidence": "html:institution-wrap",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "funding_zh": {
+          "status": "extracted",
+          "source_value": "煤炭精细勘探与智能开发全国重点实验室2023年开放基金资助(SKLCRSM23KFA02); 贵州省科技支撑计划项目(黔科合支撑[2026]一般345); 国家自然科学基金资助(52304274); 中央高校基本科研业务费专项资金资助(2026ZKPYAQ01)",
+          "stored_value": null,
+          "evidence": "html:基金资助",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "funding_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": null,
+          "evidence": "",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "abstract_zh": {
+          "status": "verified",
+          "source_value": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+          "stored_value": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+          "evidence": "html:摘要",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "abstract_en": {
+          "status": "extracted",
+          "source_value": "Aiming at the problems of low flame brightness, small target and easy interference in confined space fires, an improved confined space fire detection model SBR-YOLOv11n was proposed based on YOLOv11n model. In the backbone network part, some standard convolution layers were replaced by Space to Depth Convolution (SPDConv) layers to solve the problem that the flame features were easy to lose under low brightness. In the neck network part, the Bidirectional Feature Pyramid Network (BiFPN) module was introduced to improve the fusion effect of small target flame features through bidirectional connections and learnable weight mechanisms. In addition, the Inverted Residual Mobile Block (iRMB) was used to adaptively weight the dynamic flame features to improve the robustness of the model to dynamic flame detection. Experimental results show that the SBR-YOLOv11n model has the best evaluation indexes. Compared with the YOLOv11n model, Precision (P), Recall (R), mean Average Precision (mAP@0.5) and mAP@0.5:0.95 are increase by 5.27 %, 3.81 %, 4.17 % and 3.03 % respectively, reaching 84.94 %, 83.83 %, 84.63 % and 62.97 %, with a detection speed of 75 Frames Per Second (FPS). The SBR-YOLOv11n model meets the needs of rapid and accurate fire detection in confined space and is suitable for fire detection in confined spaces.",
+          "stored_value": "",
+          "evidence": "html:Abstract",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "keywords_zh": {
+          "status": "conflict",
+          "source_value": [
+            "受限空间",
+            "火灾探测",
+            "特征提取",
+            "注意力机制"
+          ],
+          "stored_value": [
+            "受限空间",
+            "火灾探测",
+            "SBR-YOLOv11n",
+            "特征提取",
+            "注意力机制",
+            "confined space",
+            "fire detection",
+            "SPDConv-BiFPN-iRMB-YOLOv11n (SBR-YOLOv11n)",
+            "feature extraction",
+            "attention mechanism"
+          ],
+          "evidence": "meta:citation_keywords",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "keywords_en": {
+          "status": "extracted",
+          "source_value": [
+            "SBR-YOLOv11n",
+            "confined space",
+            "fire detection",
+            "SPDConv-BiFPN-iRMB-YOLOv11n (SBR-YOLOv11n)",
+            "feature extraction",
+            "attention mechanism"
+          ],
+          "stored_value": [],
+          "evidence": "meta:citation_keywords",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "doi": {
+          "status": "verified",
+          "source_value": "10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "stored_value": "10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "evidence": "meta:citation_doi",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "pdf_url": {
+          "status": "extracted",
+          "source_value": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "stored_value": "",
+          "evidence": "link:PDF 0",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "preview_url": {
+          "status": "verified",
+          "source_value": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "stored_value": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "evidence": "meta:citation_abstract_html_url",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "citation_text": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "李聪, 许文博, 滕文飞, 汪陈徽, 吴建松. 基于改进SBR-YOLOv11n的受限空间火灾探测模型[J]. 中国安全科学学报, 2026, 36(9): 263. DOI: 10.16265/j.cnki.issn1003-3033.2026.09.1007.",
+          "evidence": "",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "citation_text_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "download_links": {
+          "status": "extracted",
+          "source_value": [
+            {
+              "label": "PDF 0",
+              "format": "PDF",
+              "url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+            },
+            {
+              "label": "EndNote",
+              "format": "ENDNOTE",
+              "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=EndNote&id=25439"
+            },
+            {
+              "label": "Ris",
+              "format": "RIS",
+              "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=Ris&id=25439"
+            },
+            {
+              "label": "BibTeX",
+              "format": "BIBTEX",
+              "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=25439"
+            }
+          ],
+          "stored_value": null,
+          "evidence": "publisher:links",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "title": {
+          "status": "verified",
+          "source_value": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+          "stored_value": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+          "evidence": "meta:citation_title",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "authors": {
+          "status": "verified",
+          "source_value": [
+            "李聪",
+            "许文博",
+            "滕文飞",
+            "汪陈徽",
+            "吴建松"
+          ],
+          "stored_value": [
+            "李聪",
+            "许文博",
+            "滕文飞",
+            "汪陈徽",
+            "吴建松"
+          ],
+          "evidence": "meta:citation_authors",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "keywords": {
+          "status": "conflict",
+          "source_value": [
+            "受限空间",
+            "火灾探测",
+            "特征提取",
+            "注意力机制"
+          ],
+          "stored_value": [
+            "受限空间",
+            "火灾探测",
+            "SBR-YOLOv11n",
+            "特征提取",
+            "注意力机制",
+            "confined space",
+            "fire detection",
+            "SPDConv-BiFPN-iRMB-YOLOv11n (SBR-YOLOv11n)",
+            "feature extraction",
+            "attention mechanism"
+          ],
+          "evidence": "meta:citation_keywords",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "affiliations": {
+          "status": "extracted",
+          "source_value": "1 煤炭精细勘探与智能开发全国重点实验室, 北京 100083 2 中国矿业大学(北京) 应急管理与安全工程学院, 北京 100083 3 中国国家铁路集团有限公司 铁路安全研究中心, 北京 100081",
+          "stored_value": "",
+          "evidence": "html:institution-wrap",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "funding": {
+          "status": "extracted",
+          "source_value": "煤炭精细勘探与智能开发全国重点实验室2023年开放基金资助(SKLCRSM23KFA02); 贵州省科技支撑计划项目(黔科合支撑[2026]一般345); 国家自然科学基金资助(52304274); 中央高校基本科研业务费专项资金资助(2026ZKPYAQ01)",
+          "stored_value": "",
+          "evidence": "html:基金资助",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        "abstract": {
+          "status": "verified",
+          "source_value": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+          "stored_value": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+          "evidence": "html:摘要",
+          "source_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        }
+      },
+      "missing": [
+        "funding_en",
+        "citation_text",
+        "citation_text_en"
+      ],
+      "conflicts": [
+        "keywords_zh",
+        "keywords"
+      ],
+      "errors": [],
+      "link_check": "已实际请求 PDF（最多读取 1024 字节）并核验 %PDF- 文件头；其他导出链接仅核对原文存在",
+      "content_sha256": "0a4e82f342eaa43f38e76da32befe645c7706ddbd0145f78d1798fc4137bfecf",
+      "link_checks": {
+        "source": {
+          "status": "passed",
+          "url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "reason": "已获取原文并提取论文元数据"
+        },
+        "pdf": {
+          "url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "status": "blocked",
+          "checked_at": "2026-11-05T08:25:02.295200+00:00",
+          "bytes_read": 1024,
+          "final_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "reason": "下载地址未返回 PDF 文件头，可能需要登录或权限"
+        }
+      },
+      "acceptance": {
+        "status": "failed",
+        "scope": "自动基础检验",
+        "reasons": [
+          "尚有未解决的原文与入库冲突：keywords_zh, keywords"
+        ]
+      }
+    },
+    "metadata": {
+      "title_zh": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+      "title": "基于改进SBR-YOLOv11n的受限空间火灾探测模型",
+      "title_en": "Fire detection model in confined space based on improved SBR-YOLOv11n",
+      "authors_zh": [
+        "李聪",
+        "许文博",
+        "滕文飞",
+        "汪陈徽",
+        "吴建松"
+      ],
+      "authors": [
+        "李聪",
+        "许文博",
+        "滕文飞",
+        "汪陈徽",
+        "吴建松"
+      ],
+      "authors_en": [
+        "Li Cong",
+        "Xu Wenbo",
+        "Teng Wenfei",
+        "Wang Chenhui",
+        "Wu Jiansong"
+      ],
+      "keywords_zh": [
+        "受限空间",
+        "火灾探测",
+        "特征提取",
+        "注意力机制"
+      ],
+      "keywords": [
+        "受限空间",
+        "火灾探测",
+        "特征提取",
+        "注意力机制"
+      ],
+      "keywords_en": [
+        "SBR-YOLOv11n",
+        "confined space",
+        "fire detection",
+        "SPDConv-BiFPN-iRMB-YOLOv11n (SBR-YOLOv11n)",
+        "feature extraction",
+        "attention mechanism"
+      ],
+      "doi": "10.16265/j.cnki.issn1003-3033.2026.09.1007",
+      "preview_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+      "affiliations_zh": "1 煤炭精细勘探与智能开发全国重点实验室, 北京 100083 2 中国矿业大学(北京) 应急管理与安全工程学院, 北京 100083 3 中国国家铁路集团有限公司 铁路安全研究中心, 北京 100081",
+      "affiliations": "1 煤炭精细勘探与智能开发全国重点实验室, 北京 100083 2 中国矿业大学(北京) 应急管理与安全工程学院, 北京 100083 3 中国国家铁路集团有限公司 铁路安全研究中心, 北京 100081",
+      "affiliations_en": "1 SKL for Fine Exploration and Intelligent Development of Coal Resources, Beijing 100083, China 2 School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China 3 Railway Safety Research Center, China State Railway Group Co., Ltd., Beijing 100081, China",
+      "funding_zh": "煤炭精细勘探与智能开发全国重点实验室2023年开放基金资助(SKLCRSM23KFA02); 贵州省科技支撑计划项目(黔科合支撑[2026]一般345); 国家自然科学基金资助(52304274); 中央高校基本科研业务费专项资金资助(2026ZKPYAQ01)",
+      "funding": "煤炭精细勘探与智能开发全国重点实验室2023年开放基金资助(SKLCRSM23KFA02); 贵州省科技支撑计划项目(黔科合支撑[2026]一般345); 国家自然科学基金资助(52304274); 中央高校基本科研业务费专项资金资助(2026ZKPYAQ01)",
+      "abstract_zh": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+      "abstract": "针对受限空间火灾中火焰亮度低、目标小、易受干扰等问题,在YOLOv11n模型基础上,提出一种改进的受限空间火灾探测模型SBR-YOLOv11n。在骨干网络部分,将部分标准卷积层替换为空间深度转换卷积(SPDConv)层,解决模型在低亮度下火焰特征容易丢失的问题;在颈部网络部分,引入双向特征金字塔网络(BiFPN)模块,通过双向连接与可学习权重机制提升小目标火焰特征的融合效果;此外,采用倒置残差块注意力机制(iRMB),对动态火焰特征进行自适应加权,提高模型探测动态火焰的鲁棒性。结果表明:SBR-YOLOv11n模型各项评价指标达到最优,与YOLOv11n模型相比,精确率(P)、召回率(R)、平均精度均值(mAP@0.5和mAP@0.5:0.95)分别提升5.27%、3.81%、4.17%和3.03%,达到84.94%、83.83%、84.63%和62.97%,检测帧数(FPS)为75 帧/s。SBR-YOLOv11n模型满足受限空间火灾快速与精准探测需求,适用于受限空间火灾探测。",
+      "abstract_en": "Aiming at the problems of low flame brightness, small target and easy interference in confined space fires, an improved confined space fire detection model SBR-YOLOv11n was proposed based on YOLOv11n model. In the backbone network part, some standard convolution layers were replaced by Space to Depth Convolution (SPDConv) layers to solve the problem that the flame features were easy to lose under low brightness. In the neck network part, the Bidirectional Feature Pyramid Network (BiFPN) module was introduced to improve the fusion effect of small target flame features through bidirectional connections and learnable weight mechanisms. In addition, the Inverted Residual Mobile Block (iRMB) was used to adaptively weight the dynamic flame features to improve the robustness of the model to dynamic flame detection. Experimental results show that the SBR-YOLOv11n model has the best evaluation indexes. Compared with the YOLOv11n model, Precision (P), Recall (R), mean Average Precision (mAP@0.5) and mAP@0.5:0.95 are increase by 5.27 %, 3.81 %, 4.17 % and 3.03 % respectively, reaching 84.94 %, 83.83 %, 84.63 % and 62.97 %, with a detection speed of 75 Frames Per Second (FPS). The SBR-YOLOv11n model meets the needs of rapid and accurate fire detection in confined space and is suitable for fire detection in confined spaces.",
+      "pdf_url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007",
+      "download_links": [
+        {
+          "label": "PDF 0",
+          "format": "PDF",
+          "url": "http://www.cssjj.com.cn/CN/10.16265/j.cnki.issn1003-3033.2026.09.1007"
+        },
+        {
+          "label": "EndNote",
+          "format": "ENDNOTE",
+          "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=EndNote&id=25439"
+        },
+        {
+          "label": "Ris",
+          "format": "RIS",
+          "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=Ris&id=25439"
+        },
+        {
+          "label": "BibTeX",
+          "format": "BIBTEX",
+          "url": "http://www.cssjj.com.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=25439"
+        }
+      ]
+    },
+    "manual_comparison": "原页可读且有PDF按钮；当前文件请求未返回PDF，不能判下载合格。"
+  },
+  {
+    "slug": "journal-safety-and-environment",
+    "journal": "安全与环境学报",
+    "id": 813,
+    "title": "露天矿粉尘扩散机理研究进展及展望",
+    "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+    "doi": "10.13637/j.issn.1009-6094.2025.1493",
+    "journal_id": 398,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:27:17.192138+00:00",
+      "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+      "final_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+      "status": "conflict",
+      "fields": {
+        "title_zh": {
+          "status": "verified",
+          "source_value": "露天矿粉尘扩散机理研究进展及展望",
+          "stored_value": "露天矿粉尘扩散机理研究进展及展望",
+          "evidence": "html:rich_main_con_left_title",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "title_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "authors_zh": {
+          "status": "verified",
+          "source_value": [
+            "周文东",
+            "崔宴伟",
+            "王和堂",
+            "祁云",
+            "陈力",
+            "竹浩天",
+            "秦源",
+            "沈傲杰",
+            "苏楚瑜",
+            "朱小龙"
+          ],
+          "stored_value": [
+            "周文东",
+            "崔宴伟",
+            "王和堂",
+            "祁云",
+            "陈力",
+            "竹浩天",
+            "秦源",
+            "沈傲杰",
+            "苏楚瑜",
+            "朱小龙"
+          ],
+          "evidence": "html:author_string_name",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "authors_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": [],
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "affiliations_zh": {
+          "status": "verified",
+          "source_value": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+          "stored_value": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+          "evidence": "html:rich_main_con_left_zuozhexinxi_con",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "affiliations_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": null,
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "funding_zh": {
+          "status": "verified",
+          "source_value": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+          "stored_value": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+          "evidence": "html:fund_text_class",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "funding_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": null,
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "abstract_zh": {
+          "status": "verified",
+          "source_value": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+          "stored_value": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+          "evidence": "html:摘要",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "abstract_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "keywords_zh": {
+          "status": "verified",
+          "source_value": [
+            "安全卫生工程技术",
+            "露天矿",
+            "粉尘扩散",
+            "多作业工序",
+            "气象条件"
+          ],
+          "stored_value": [
+            "安全卫生工程技术",
+            "露天矿",
+            "粉尘扩散",
+            "多作业工序",
+            "气象条件"
+          ],
+          "evidence": "html:关键词",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "keywords_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": [],
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "doi": {
+          "status": "verified",
+          "source_value": "10.13637/j.issn.1009-6094.2025.1493",
+          "stored_value": "10.13637/j.issn.1009-6094.2025.1493",
+          "evidence": "html:DOI",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "pdf_url": {
+          "status": "verified",
+          "source_value": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+          "stored_value": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+          "evidence": "html:openPDFLink button",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "preview_url": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "citation_text": {
+          "status": "conflict",
+          "source_value": "周文东, 崔宴伟, 王和堂, 祁云, 陈力, 竹浩天, 秦源, 沈傲杰, 苏楚瑜, 朱小龙. 露天矿粉尘扩散机理研究进展及展望. 安全与环境学报, 2026 , 26 (6) . DOI: 10.13637/j.issn.1009-6094.2025.1493",
+          "stored_value": "周文东, 崔宴伟, 王和堂, 祁云, 陈力, 竹浩天, 秦源, 沈傲杰, 苏楚瑜, 朱小龙. 露天矿粉尘扩散机理研究进展及展望[J]. 安全与环境学报, 2026, 26(6). DOI: 10.13637/j.issn.1009-6094.2025.1493.",
+          "evidence": "html:引用本文",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "citation_text_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "download_links": {
+          "status": "extracted",
+          "source_value": [
+            {
+              "label": "PDF",
+              "format": "PDF",
+              "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227"
+            }
+          ],
+          "stored_value": null,
+          "evidence": "publisher:links",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "title": {
+          "status": "verified",
+          "source_value": "露天矿粉尘扩散机理研究进展及展望",
+          "stored_value": "露天矿粉尘扩散机理研究进展及展望",
+          "evidence": "html:rich_main_con_left_title",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "affiliations": {
+          "status": "verified",
+          "source_value": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+          "stored_value": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+          "evidence": "html:rich_main_con_left_zuozhexinxi_con",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "authors": {
+          "status": "verified",
+          "source_value": [
+            "周文东",
+            "崔宴伟",
+            "王和堂",
+            "祁云",
+            "陈力",
+            "竹浩天",
+            "秦源",
+            "沈傲杰",
+            "苏楚瑜",
+            "朱小龙"
+          ],
+          "stored_value": [
+            "周文东",
+            "崔宴伟",
+            "王和堂",
+            "祁云",
+            "陈力",
+            "竹浩天",
+            "秦源",
+            "沈傲杰",
+            "苏楚瑜",
+            "朱小龙"
+          ],
+          "evidence": "html:author_string_name",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "funding": {
+          "status": "verified",
+          "source_value": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+          "stored_value": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+          "evidence": "html:fund_text_class",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "abstract": {
+          "status": "verified",
+          "source_value": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+          "stored_value": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+          "evidence": "html:摘要",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        },
+        "keywords": {
+          "status": "verified",
+          "source_value": [
+            "安全卫生工程技术",
+            "露天矿",
+            "粉尘扩散",
+            "多作业工序",
+            "气象条件"
+          ],
+          "stored_value": [
+            "安全卫生工程技术",
+            "露天矿",
+            "粉尘扩散",
+            "多作业工序",
+            "气象条件"
+          ],
+          "evidence": "html:关键词",
+          "source_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227"
+        }
+      },
+      "missing": [
+        "title_en",
+        "authors_en",
+        "affiliations_en",
+        "funding_en",
+        "abstract_en",
+        "keywords_en",
+        "preview_url",
+        "citation_text_en"
+      ],
+      "conflicts": [
+        "citation_text"
+      ],
+      "errors": [],
+      "link_check": "已实际请求 PDF（最多读取 1024 字节）并核验 %PDF- 文件头；其他导出链接仅核对原文存在",
+      "content_sha256": "10f00363ac82b4f8e5caad27af8d165e2355d8e9dd41ecf78e0491c511f8be15",
+      "link_checks": {
+        "source": {
+          "status": "passed",
+          "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/1284878664638632227",
+          "reason": "已获取原文并提取论文元数据"
+        },
+        "pdf": {
+          "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+          "status": "passed",
+          "checked_at": "2026-11-05T08:27:18.073136+00:00",
+          "bytes_read": 1024,
+          "final_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "reason": "已读取 PDF 文件头 %PDF-"
+        }
+      },
+      "acceptance": {
+        "status": "failed",
+        "scope": "自动基础检验",
+        "reasons": [
+          "尚有未解决的原文与入库冲突：citation_text"
+        ]
+      }
+    },
+    "metadata": {
+      "title_zh": "露天矿粉尘扩散机理研究进展及展望",
+      "title": "露天矿粉尘扩散机理研究进展及展望",
+      "affiliations_zh": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+      "affiliations": "1. 中国矿业大学煤炭精细勘探与智能开发全国重点实验室 2. 南京信息工程大学自动化学院 3. 中国矿业大学煤矿灾害防控全国重点实验室 4. 内蒙古科技大学矿业与煤炭学院",
+      "authors_zh": [
+        "周文东",
+        "崔宴伟",
+        "王和堂",
+        "祁云",
+        "陈力",
+        "竹浩天",
+        "秦源",
+        "沈傲杰",
+        "苏楚瑜",
+        "朱小龙"
+      ],
+      "authors": [
+        "周文东",
+        "崔宴伟",
+        "王和堂",
+        "祁云",
+        "陈力",
+        "竹浩天",
+        "秦源",
+        "沈傲杰",
+        "苏楚瑜",
+        "朱小龙"
+      ],
+      "funding_zh": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+      "funding": "国家自然科学基金项目 江苏省高等学校基础科学 中国矿业大学煤炭精细勘探与智能开发全国重点实验室开放研究课题",
+      "abstract_zh": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+      "abstract": "为了有效防控露天开采产生粉尘的扩散问题，降低粉尘扩散对作业人员健康与周边生态环境的威胁，有力支撑露天矿山绿色转型，首先，系统梳理了不同生产工序条件下粉尘差异化扩散特性方面的研究进展；然后，总结了露天开放环境中风流、湿度、温度等气象条件对粉尘扩散的作用；最后，基于当前研究的局限性，展望了露天粉尘扩散机理研究的发展趋势。结果表明：现场实测受环境扰动影响显著，实验室试验和数值模拟常因过度简化而难以真实反映实际工况；针对呼吸性粉尘的扩散动力学行为及多因素耦合机制的研究尚待深入。未来应致力于研发大尺度、高精度数值仿真平台，构建多参数协同的粉尘连续监测体系，发展基于人工智能的粉尘质量浓度预测与智能预警方法，探究气象与地形条件对呼吸性粉尘迁移的耦合作用机制。",
+      "keywords_zh": [
+        "安全卫生工程技术",
+        "露天矿",
+        "粉尘扩散",
+        "多作业工序",
+        "气象条件"
+      ],
+      "keywords": [
+        "安全卫生工程技术",
+        "露天矿",
+        "粉尘扩散",
+        "多作业工序",
+        "气象条件"
+      ],
+      "citation_text": "周文东, 崔宴伟, 王和堂, 祁云, 陈力, 竹浩天, 秦源, 沈傲杰, 苏楚瑜, 朱小龙. 露天矿粉尘扩散机理研究进展及展望. 安全与环境学报, 2026 , 26 (6) . DOI: 10.13637/j.issn.1009-6094.2025.1493",
+      "pdf_url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227",
+      "doi": "10.13637/j.issn.1009-6094.2025.1493",
+      "download_links": [
+        {
+          "label": "PDF",
+          "format": "PDF",
+          "url": "https://castjournals.cast.org.cn/joweb/aqyhjxb/CN/PDF/1284878664638632227"
+        }
+      ]
+    },
+    "manual_comparison": "原页有PDF按钮，实际点击下载及文件头检查成功；官网英文标题等区域为空。引用文本与已有记录有差异，保留待核对。"
+  },
+  {
+    "slug": "journal-command-and-control",
+    "journal": "指挥与控制学报",
+    "id": 847,
+    "title": "并联机械臂的有限时间变增益控制",
+    "url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359",
+    "doi": "10.20278/j.jc2.2096-0204.2024.0359",
+    "journal_id": 863,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:01.643842+00:00",
+      "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "Finite-Time Variable-Gain Control for Parallel Manipulators",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [
+            "Gu Shaomeng",
+            "Zhang Jinhui",
+            "Liu Xin",
+            "Zhao Kai"
+          ],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "A finite-time variable-gain control method is proposed for parallel manipulator systems subject to disturbances. By constructing a tracking error system model with tracking errors as state variables, the trajectory tracking problem is converted into a stabilization problem for the tracking error system. The proposed method integrates a finite-time variable-gain extended state observer (ESO) and a finite-time variable-gain sliding mode controller (SMC). The ESO dynamically adjusts its gains based on real-time estimation errors to improve both transient and steady-state estimation performance. Furthermore, considering the time-varying characteristics of the sliding surface, a finite-time variable-gain sliding mode controller with dynamically adjustable gains and exponential terms is designed to enhance both the convergence rate and control accuracy of the parallel manipulator system. Simulation and experi-mental results verify the effectiveness of the proposed method.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [
+            "finite-time",
+            "extended state observer",
+            "finite-time variable-gain sliding mode controller",
+            "manipulator control"
+          ],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.20278/j.jc2.2096-0204.2024.0359",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "http://www.jc2.org.cn/cn/article/pdf/preview/10.20278/j.jc2.2096-0204.2024.0359.pdf",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "http://www.jc2.org.cn/cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359?viewType=HTML",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "谷少萌, 张金会, 刘欣, 赵凯. 并联机械臂的有限时间变增益控制[J]. 指挥与控制学报, 2026, 12(5): 860-868. DOI: 10.20278/j.jc2.2096-0204.2024.0359.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Gu S M, Zhang J H, Liu X, Zhao K. Finite-Time Variable-Gain Control for Parallel Manipulators[J]. Journal of Command and Control, 2026, 12(5): 860-868. DOI: 10.20278/j.jc2.2096-0204.2024.0359.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "http://www.jc2.org.cn/article/doi/10.20278/j.jc2.2096-0204.2024.0359"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "The read operation timed out"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "The read operation timed out"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "本次原页为403，HTTP采集亦受阻，不能完成内容对照。"
+  },
+  {
+    "slug": "reliability-engineering-system-safety",
+    "journal": "Reliability Engineering & System Safety",
+    "id": 819,
+    "title": "Simulating dynamic transport-economic interdependencies for post-earthquake regional economic recovery",
+    "url": "https://doi.org/10.1016/j.ress.2026.113700",
+    "doi": "10.1016/j.ress.2026.113700",
+    "journal_id": 2,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:02.828605+00:00",
+      "source_url": "https://doi.org/10.1016/j.ress.2026.113700",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0951832026015024",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.ress.2026.113700",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.ress.2026.113700",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Tinger Zhu, Bofan Yu, Rodrigo Silva-Lopez, Jack W. Baker. Simulating dynamic transport-economic interdependencies for post-earthquake regional economic recovery[J]. Reliability Engineering & System Safety, 2026: 113700. DOI: 10.1016/j.ress.2026.113700.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Tinger Zhu, Bofan Yu, Rodrigo Silva-Lopez, Jack W. Baker. Simulating dynamic transport-economic interdependencies for post-earthquake regional economic recovery[J]. Reliability Engineering & System Safety, 2026: 113700. DOI: 10.1016/j.ress.2026.113700.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ress.2026.113700"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "0631232c645ab949ada5ef410e832c1fba6ab422699945780059b68fc8da032e",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "china-safety-science-technology",
+    "journal": "中国安全生产科学技术",
+    "id": 732,
+    "title": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+    "url": "http://aqsckj.paperopen.com/#/digest?ArticleID=10813",
+    "doi": "10.11731/j.issn.1673-193x.2026.10.002",
+    "journal_id": 243,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:03.655808+00:00",
+      "source_url": "http://aqsckj.paperopen.com/#/digest?ArticleID=10813",
+      "final_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813",
+      "status": "partial",
+      "fields": {
+        "title_zh": {
+          "status": "verified",
+          "source_value": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+          "stored_value": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+          "evidence": "api:Data.Title",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "title_en": {
+          "status": "extracted",
+          "source_value": "Research on pore structure and gas desorption mechanism of bituminous coal by temperature and pressure coupling",
+          "stored_value": "",
+          "evidence": "api:Data.TitleE",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "authors_zh": {
+          "status": "verified",
+          "source_value": [
+            "李龙港",
+            "涂庆毅",
+            "唐明云",
+            "薛生",
+            "张睿卿",
+            "陈延可",
+            "高世强"
+          ],
+          "stored_value": [
+            "李龙港",
+            "涂庆毅",
+            "唐明云",
+            "薛生",
+            "张睿卿",
+            "陈延可",
+            "高世强"
+          ],
+          "evidence": "api:Data.AuthorsList",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "authors_en": {
+          "status": "extracted",
+          "source_value": [
+            "Li Longgang",
+            "Tu Qingyi",
+            "Tang Mingyun",
+            "Xue Sheng",
+            "Zhang Ruiqing",
+            "Chen Yanke",
+            "Gao Shiqiang"
+          ],
+          "stored_value": [],
+          "evidence": "api:Data.AuthorsListE",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "affiliations_zh": {
+          "status": "extracted",
+          "source_value": "(1.安徽理工大学 安全科学与工程学院,安徽 淮南 232001; 2.淮南矿业(集团)有限责任公司 深部煤炭安全开采与环境保护全国重点实验室,安徽 淮南 232000; 3.安徽理工大学 煤矿瓦斯治理国家矿山安全监察局重点实验室,安徽 淮南 232001)",
+          "stored_value": null,
+          "evidence": "api:Data.Unit",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "affiliations_en": {
+          "status": "extracted",
+          "source_value": "(1.School of Safety Science and Engineering,Anhui University of Science & Technology,Huainan Anhui 232001,China; 2.State Key Laboratory of Safe Mining of Deep Coal and Environment Protection,Huainan Mining(Group)Co.,Ltd.,Huainan Anhui 232000,China; 3.Key Laboratory of Gas Control in Coal Mines National Mine Safety Administration,Anhui University of Science & Technology,Huainan Anhui 232001,China)",
+          "stored_value": null,
+          "evidence": "api:Data.Unit_EngLish",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "funding_zh": {
+          "status": "extracted",
+          "source_value": "国家重点研发计划项目(2023YFC3009001); 国家自然科学基金面上项目(52574222)",
+          "stored_value": null,
+          "evidence": "api:Data.Memory",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "funding_en": {
+          "status": "extracted",
+          "source_value": "National Key R&D Program of China (2023YFC3009001); General Program of National Natural Science Foundation of China (52574222)",
+          "stored_value": null,
+          "evidence": "api:Data.MemoryEN",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "abstract_zh": {
+          "status": "verified",
+          "source_value": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+          "stored_value": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+          "evidence": "api:Data.Abstract_Chinese",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "abstract_en": {
+          "status": "extracted",
+          "source_value": "In order to explore the relationship between coal pore structure and gas desorption mechanism under the temperature and pressure coupling,this paper takes Yuka low permeability bituminous coal as the research object,and combines low temperature nitrogen adsorption,mercury injection experiment,fractal theory and Katz-Thompson model to quantify the pore structure and permeability characteristics under different temperature and pressure coupling conditions,and carry out gas desorption test.The results show that the pore response under the action of temperature and pressure coupling has stage characteristics.With the increase of treatment temperature,the average pore size of coal samples under three groups of pressures increases,the proportion of pore volume and specific surface area shows the attenuation of adsorption pore and the increase of seepage pore.The total specific surface area decreases by 73.5%～87.1%,the fractal dimension of seepage pore decreases by 3.3%～4.0%,and the cumulative desorption amount and initial desorption rate increased by 28.9%～41.0% and 37.3%～43.9%,respectively.Among them,the total pore volume of coal samples in 2 MPa group decreases by 10.4%,Kseep increases by 20.3%,and Ktotal decreases by 14.5%,showing the characteristics of overall pore volume reduction and local seepage transport capacity enhancement.It is proved that high pressure compression does not necessarily lead to a simultaneous decrease in the transport capacity of multi-scale pores,which can provide a reference for explaining the pore change and constant temperature desorption behavior of coal samples after pressurized heat treatment.",
+          "stored_value": "",
+          "evidence": "api:Data.Abstract_English",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "keywords_zh": {
+          "status": "extracted",
+          "source_value": [
+            "温压耦合",
+            "孔隙结构",
+            "分形维数",
+            "渗透率",
+            "瓦斯解吸"
+          ],
+          "stored_value": null,
+          "evidence": "api:Data.Keyword_Chinese",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "keywords_en": {
+          "status": "extracted",
+          "source_value": [
+            "temperature and pressure coupling",
+            "pore structure",
+            "fractal dimension",
+            "permeability",
+            "gas desorption"
+          ],
+          "stored_value": [],
+          "evidence": "api:Data.Keywords_English",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "doi": {
+          "status": "verified",
+          "source_value": "10.11731/j.issn.1673-193x.2026.10.002",
+          "stored_value": "10.11731/j.issn.1673-193x.2026.10.002",
+          "evidence": "api:Data.DOI",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "pdf_url": {
+          "status": "extracted",
+          "source_value": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a",
+          "stored_value": "",
+          "evidence": "api:Data.PDFFileNameUrlGUID + publisher download route",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "preview_url": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "http://aqsckj.paperopen.com/#/digest?ArticleID=10813",
+          "evidence": "",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "citation_text": {
+          "status": "verified",
+          "source_value": "李龙港,涂庆毅,唐明云,薛生,张睿卿,陈延可,高世强.温压耦合对烟煤孔隙结构及瓦斯解吸机制研究[J].中国安全生产科学技术,2026,22(10):13-20.DOI:10.11731/j.issn.1673-193x.2026.10.002",
+          "stored_value": "李龙港, 涂庆毅, 唐明云, 薛生, 张睿卿, 陈延可, 高世强. 温压耦合对烟煤孔隙结构及瓦斯解吸机制研究[J]. 中国安全生产科学技术, 2026, 22(10): 13-20. DOI: 10.11731/j.issn.1673-193x.2026.10.002.",
+          "evidence": "api:Data.InCite",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "citation_text_en": {
+          "status": "extracted",
+          "source_value": "Li Longgang,Tu Qingyi,Tang Mingyun,Xue Sheng,Zhang Ruiqing,Chen Yanke,Gao Shiqiang.Research on pore structure and gas desorption mechanism of bituminous coal by temperature and pressure coupling[J].Journal of Safety Science and Technology,2026,22(10):13-20.DOI:10.11731/j.issn.1673-193x.2026.10.002",
+          "stored_value": "",
+          "evidence": "api:Data.InCiteEN",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "download_links": {
+          "status": "extracted",
+          "source_value": [
+            {
+              "label": "PDF（官网）",
+              "format": "PDF",
+              "url": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a"
+            }
+          ],
+          "stored_value": null,
+          "evidence": "api:Data.PDFFileNameUrlGUID + publisher download route",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "title": {
+          "status": "verified",
+          "source_value": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+          "stored_value": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+          "evidence": "api:Data.Title",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "authors": {
+          "status": "verified",
+          "source_value": [
+            "李龙港",
+            "涂庆毅",
+            "唐明云",
+            "薛生",
+            "张睿卿",
+            "陈延可",
+            "高世强"
+          ],
+          "stored_value": [
+            "李龙港",
+            "涂庆毅",
+            "唐明云",
+            "薛生",
+            "张睿卿",
+            "陈延可",
+            "高世强"
+          ],
+          "evidence": "api:Data.AuthorsList",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "affiliations": {
+          "status": "extracted",
+          "source_value": "(1.安徽理工大学 安全科学与工程学院,安徽 淮南 232001; 2.淮南矿业(集团)有限责任公司 深部煤炭安全开采与环境保护全国重点实验室,安徽 淮南 232000; 3.安徽理工大学 煤矿瓦斯治理国家矿山安全监察局重点实验室,安徽 淮南 232001)",
+          "stored_value": "",
+          "evidence": "api:Data.Unit",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "funding": {
+          "status": "extracted",
+          "source_value": "国家重点研发计划项目(2023YFC3009001); 国家自然科学基金面上项目(52574222)",
+          "stored_value": "",
+          "evidence": "api:Data.Memory",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "abstract": {
+          "status": "verified",
+          "source_value": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+          "stored_value": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+          "evidence": "api:Data.Abstract_Chinese",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        },
+        "keywords": {
+          "status": "extracted",
+          "source_value": [
+            "温压耦合",
+            "孔隙结构",
+            "分形维数",
+            "渗透率",
+            "瓦斯解吸"
+          ],
+          "stored_value": [],
+          "evidence": "api:Data.Keyword_Chinese",
+          "source_url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813"
+        }
+      },
+      "missing": [
+        "preview_url"
+      ],
+      "conflicts": [],
+      "errors": [],
+      "link_check": "已实际请求 PDF（最多读取 1024 字节）并核验 %PDF- 文件头；其他导出链接仅核对原文存在",
+      "content_sha256": "d5ba96994e6585387cc281e2313b4b9cb92d0ea56c5d2f2b078f7b546af827cc",
+      "link_checks": {
+        "source": {
+          "status": "passed",
+          "url": "http://aqsckj.paperopen.com/api/api/Web/GetArticleDetailed?id=10813",
+          "reason": "已获取原文并提取论文元数据"
+        },
+        "pdf": {
+          "url": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a",
+          "status": "passed",
+          "checked_at": "2026-11-05T08:25:03.827516+00:00",
+          "bytes_read": 1024,
+          "final_url": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a",
+          "http_status": 200,
+          "content_type": "application/octet-stream",
+          "reason": "已读取 PDF 文件头 %PDF-"
+        }
+      },
+      "acceptance": {
+        "status": "passed",
+        "scope": "自动基础检验",
+        "reasons": [
+          "标题、作者、摘要有原文证据，论文身份匹配，PDF 文件头验证通过；第二语言缺失不单独判失败",
+          "其余未提取字段仍待人工对照原文核查：preview_url"
+        ]
+      }
+    },
+    "metadata": {
+      "title_zh": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+      "title_en": "Research on pore structure and gas desorption mechanism of bituminous coal by temperature and pressure coupling",
+      "authors_zh": [
+        "李龙港",
+        "涂庆毅",
+        "唐明云",
+        "薛生",
+        "张睿卿",
+        "陈延可",
+        "高世强"
+      ],
+      "authors_en": [
+        "Li Longgang",
+        "Tu Qingyi",
+        "Tang Mingyun",
+        "Xue Sheng",
+        "Zhang Ruiqing",
+        "Chen Yanke",
+        "Gao Shiqiang"
+      ],
+      "affiliations_zh": "(1.安徽理工大学 安全科学与工程学院,安徽 淮南 232001; 2.淮南矿业(集团)有限责任公司 深部煤炭安全开采与环境保护全国重点实验室,安徽 淮南 232000; 3.安徽理工大学 煤矿瓦斯治理国家矿山安全监察局重点实验室,安徽 淮南 232001)",
+      "affiliations_en": "(1.School of Safety Science and Engineering,Anhui University of Science & Technology,Huainan Anhui 232001,China; 2.State Key Laboratory of Safe Mining of Deep Coal and Environment Protection,Huainan Mining(Group)Co.,Ltd.,Huainan Anhui 232000,China; 3.Key Laboratory of Gas Control in Coal Mines National Mine Safety Administration,Anhui University of Science & Technology,Huainan Anhui 232001,China)",
+      "abstract_zh": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+      "abstract_en": "In order to explore the relationship between coal pore structure and gas desorption mechanism under the temperature and pressure coupling,this paper takes Yuka low permeability bituminous coal as the research object,and combines low temperature nitrogen adsorption,mercury injection experiment,fractal theory and Katz-Thompson model to quantify the pore structure and permeability characteristics under different temperature and pressure coupling conditions,and carry out gas desorption test.The results show that the pore response under the action of temperature and pressure coupling has stage characteristics.With the increase of treatment temperature,the average pore size of coal samples under three groups of pressures increases,the proportion of pore volume and specific surface area shows the attenuation of adsorption pore and the increase of seepage pore.The total specific surface area decreases by 73.5%～87.1%,the fractal dimension of seepage pore decreases by 3.3%～4.0%,and the cumulative desorption amount and initial desorption rate increased by 28.9%～41.0% and 37.3%～43.9%,respectively.Among them,the total pore volume of coal samples in 2 MPa group decreases by 10.4%,Kseep increases by 20.3%,and Ktotal decreases by 14.5%,showing the characteristics of overall pore volume reduction and local seepage transport capacity enhancement.It is proved that high pressure compression does not necessarily lead to a simultaneous decrease in the transport capacity of multi-scale pores,which can provide a reference for explaining the pore change and constant temperature desorption behavior of coal samples after pressurized heat treatment.",
+      "keywords_zh": [
+        "温压耦合",
+        "孔隙结构",
+        "分形维数",
+        "渗透率",
+        "瓦斯解吸"
+      ],
+      "keywords_en": [
+        "temperature and pressure coupling",
+        "pore structure",
+        "fractal dimension",
+        "permeability",
+        "gas desorption"
+      ],
+      "citation_text": "李龙港,涂庆毅,唐明云,薛生,张睿卿,陈延可,高世强.温压耦合对烟煤孔隙结构及瓦斯解吸机制研究[J].中国安全生产科学技术,2026,22(10):13-20.DOI:10.11731/j.issn.1673-193x.2026.10.002",
+      "citation_text_en": "Li Longgang,Tu Qingyi,Tang Mingyun,Xue Sheng,Zhang Ruiqing,Chen Yanke,Gao Shiqiang.Research on pore structure and gas desorption mechanism of bituminous coal by temperature and pressure coupling[J].Journal of Safety Science and Technology,2026,22(10):13-20.DOI:10.11731/j.issn.1673-193x.2026.10.002",
+      "doi": "10.11731/j.issn.1673-193x.2026.10.002",
+      "funding_zh": "国家重点研发计划项目(2023YFC3009001); 国家自然科学基金面上项目(52574222)",
+      "funding_en": "National Key R&D Program of China (2023YFC3009001); General Program of National Natural Science Foundation of China (52574222)",
+      "pdf_url": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a",
+      "download_links": [
+        {
+          "label": "PDF（官网）",
+          "format": "PDF",
+          "url": "http://aqsckj.paperopen.com/api/api/Web/OpenArticleFilebyGuidNew?Id=c3dd7ea5-3cd1-474e-8daf-7a248eeb098a"
+        }
+      ],
+      "title": "温压耦合对烟煤孔隙结构及瓦斯解吸机制研究",
+      "authors": [
+        "李龙港",
+        "涂庆毅",
+        "唐明云",
+        "薛生",
+        "张睿卿",
+        "陈延可",
+        "高世强"
+      ],
+      "affiliations": "(1.安徽理工大学 安全科学与工程学院,安徽 淮南 232001; 2.淮南矿业(集团)有限责任公司 深部煤炭安全开采与环境保护全国重点实验室,安徽 淮南 232000; 3.安徽理工大学 煤矿瓦斯治理国家矿山安全监察局重点实验室,安徽 淮南 232001)",
+      "funding": "国家重点研发计划项目(2023YFC3009001); 国家自然科学基金面上项目(52574222)",
+      "abstract": "为探明温压耦合作用下煤体孔隙结构与瓦斯解吸机制的关联,以鱼卡低渗烟煤为研究对象,结合低温氮气吸附、压汞实验、分形理论与Katz-Thompson模型,量化不同温压耦合条件下的孔隙结构与渗透率特征,并开展瓦斯解吸测试。研究结果表明:温压耦合作用下的孔隙响应具有阶段性特征。随着处理温度升高,3组压力下煤样的平均孔径增大,孔容和比表面积占比出现吸附孔衰减、渗流孔增大,总比表面积降低73.5%～87.1%,渗流孔分形维数下降3.3%～4.0%,累积解吸量和初始解吸速度分别增大28.9%～41.0%和37.3%～43.9%,其中2 MPa组煤样总孔容降低10.4%,Kseep提高20.3%,Ktotal降低14.5%,呈现出整体孔容减少、局部渗流输运能力增强的特征; 证明高压压缩并不必然导致多尺度孔隙的输运能力同步下降。研究结果可为解释带压热处理后煤样的孔隙变化与恒温解吸行为提供参考。",
+      "keywords": [
+        "温压耦合",
+        "孔隙结构",
+        "分形维数",
+        "渗透率",
+        "瓦斯解吸"
+      ]
+    },
+    "manual_comparison": "原页双语信息和PDF入口已对照；官网API提取、PDF文件头检查通过。"
+  },
+  {
+    "slug": "safety-and-environmental-engineering",
+    "journal": "安全与环境工程",
+    "id": 682,
+    "title": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+    "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+    "doi": "10.13578/j.cnki.issn.1671-1556.20251080",
+    "journal_id": 399,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:04.201576+00:00",
+      "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+      "final_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+      "status": "partial",
+      "fields": {
+        "title_zh": {
+          "status": "verified",
+          "source_value": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+          "stored_value": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+          "evidence": "html:paperDetail_tt",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "title_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "authors_zh": {
+          "status": "verified",
+          "source_value": [
+            "杨青青",
+            "温韬",
+            "王艳昆",
+            "薛阳",
+            "陈宁生"
+          ],
+          "stored_value": [
+            "杨青青",
+            "温韬",
+            "王艳昆",
+            "薛阳",
+            "陈宁生"
+          ],
+          "evidence": "html:clickAuthorAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "authors_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": [],
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "affiliations_zh": {
+          "status": "extracted",
+          "source_value": "长江大学地球科学学院 长江大学山地多灾害防控与工程安全国际科技合作基地",
+          "stored_value": null,
+          "evidence": "html:clickAuthorUnitAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "affiliations_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": null,
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "funding_zh": {
+          "status": "extracted",
+          "source_value": "国家自然科学基金项目（42477174）; 西藏自治区科技项目（XZ202601YD0002、XZ202402ZD0001）; 青海省基础研究计划项目（2024-ZJ-904）",
+          "stored_value": null,
+          "evidence": "html:paperDetail_foundation",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "funding_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": null,
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "abstract_zh": {
+          "status": "verified",
+          "source_value": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+          "stored_value": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+          "evidence": "html:摘要",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "abstract_en": {
+          "status": "extracted",
+          "source_value": "To improve landslide deformation identification in high-altitude areas with complex terrain, this study takes the Tangmai landslide on the Qinghai-Xizang Plateau as a case study and integrates multi-source monitoring techniques to systematically investigate its deformation characteristics and influencing factors. Based on Sentinel-1A image data acquired from January 2020 to December 2024, the small baseline subset interferometric synthetic aperture radar(SBAS-InSAR) technique was applied to retrieve surface deformation information. GNSS monitoring and unmanned aerial vehicle(UAV) imagery were combined for crossvalidation, and meteorological data were introduced to explore the influencing mechanisms of landslide deformation. The results show that the average annual deformation rate in the radar line-of-sight(LOS) direction ranges from-11. 67 to 8. 56 mm/a(negative values indicate subsidence), with a maximum cumulative settlement of 55. 61 mm, indicating a state of continuous deformation. Among the monitoring points, M3 and M7 exhibit pronounced deformation and are located close to the highway, suggesting a relatively high instability risk. The SBAS-InSAR and GNSS monitoring results exhibit good agreement, with correlation coefficients r>0. 90 and RMSE <3 mm. UAV imagery further confirms significant deformation zones at the leading and trailing edges of the landslide. The analysis indicates that under the background of topographic and geological conditions and engineering disturbances, rainfall infiltration and temperature variations have certain influences on the evolution of landslide deformation. The SBAS-InSAR technique demonstrates good applicability in high-altitude areas with strong topographic relief and can provide reliable technical support for landslide monitoring and risk mitigation on the Qinghai-Xizang Plateau.",
+          "stored_value": "",
+          "evidence": "html:Abstract",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "keywords_zh": {
+          "status": "verified",
+          "source_value": [
+            "塘麦村滑坡",
+            "小基线集干涉测量(SBAS-InSAR)",
+            "全球卫星导航系统(GNSS)",
+            "形变分析",
+            "影响因素"
+          ],
+          "stored_value": [
+            "塘麦村滑坡",
+            "小基线集干涉测量(SBAS-InSAR)",
+            "全球卫星导航系统(GNSS)",
+            "形变分析",
+            "影响因素"
+          ],
+          "evidence": "html:clickKeyWordAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "keywords_en": {
+          "status": "extracted",
+          "source_value": [
+            "Tangmai landslide",
+            "small baseline subset InSAR(SBAS-InSAR)",
+            "global navigation satellite system(GNSS)",
+            "landslide deformation",
+            "influencing factor"
+          ],
+          "stored_value": [],
+          "evidence": "html:clickKeyWordAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "doi": {
+          "status": "verified",
+          "source_value": "10.13578/j.cnki.issn.1671-1556.20251080",
+          "stored_value": "10.13578/j.cnki.issn.1671-1556.20251080",
+          "evidence": "html:paperDetail_doi",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "pdf_url": {
+          "status": "extracted",
+          "source_value": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+          "stored_value": "",
+          "evidence": "html:downloadFull button and function",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "preview_url": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "citation_text": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "杨青青, 温韬, 王艳昆, 薛阳, 陈宁生. SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析[J]. 安全与环境工程, 2026, 33(4): 116-129. DOI: 10.13578/j.cnki.issn.1671-1556.20251080.",
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "citation_text_en": {
+          "status": "missing",
+          "source_value": null,
+          "stored_value": "",
+          "evidence": "",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "download_links": {
+          "status": "extracted",
+          "source_value": [
+            {
+              "label": "PDF",
+              "format": "PDF",
+              "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1"
+            }
+          ],
+          "stored_value": null,
+          "evidence": "publisher:links",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "title": {
+          "status": "verified",
+          "source_value": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+          "stored_value": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+          "evidence": "html:paperDetail_tt",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "funding": {
+          "status": "extracted",
+          "source_value": "国家自然科学基金项目（42477174）; 西藏自治区科技项目（XZ202601YD0002、XZ202402ZD0001）; 青海省基础研究计划项目（2024-ZJ-904）",
+          "stored_value": "",
+          "evidence": "html:paperDetail_foundation",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "authors": {
+          "status": "verified",
+          "source_value": [
+            "杨青青",
+            "温韬",
+            "王艳昆",
+            "薛阳",
+            "陈宁生"
+          ],
+          "stored_value": [
+            "杨青青",
+            "温韬",
+            "王艳昆",
+            "薛阳",
+            "陈宁生"
+          ],
+          "evidence": "html:clickAuthorAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "affiliations": {
+          "status": "extracted",
+          "source_value": "长江大学地球科学学院 长江大学山地多灾害防控与工程安全国际科技合作基地",
+          "stored_value": "",
+          "evidence": "html:clickAuthorUnitAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "abstract": {
+          "status": "verified",
+          "source_value": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+          "stored_value": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+          "evidence": "html:摘要",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        },
+        "keywords": {
+          "status": "verified",
+          "source_value": [
+            "塘麦村滑坡",
+            "小基线集干涉测量(SBAS-InSAR)",
+            "全球卫星导航系统(GNSS)",
+            "形变分析",
+            "影响因素"
+          ],
+          "stored_value": [
+            "塘麦村滑坡",
+            "小基线集干涉测量(SBAS-InSAR)",
+            "全球卫星导航系统(GNSS)",
+            "形变分析",
+            "影响因素"
+          ],
+          "evidence": "html:clickKeyWordAction",
+          "source_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e"
+        }
+      },
+      "missing": [
+        "title_en",
+        "authors_en",
+        "affiliations_en",
+        "funding_en",
+        "preview_url",
+        "citation_text",
+        "citation_text_en"
+      ],
+      "conflicts": [],
+      "errors": [],
+      "link_check": "已实际请求 PDF（最多读取 1024 字节）并核验 %PDF- 文件头；其他导出链接仅核对原文存在",
+      "content_sha256": "dedaa1f4e2a56fdd98872549be425378350f7613eb108866dfe26294cdc69b42",
+      "link_checks": {
+        "source": {
+          "status": "passed",
+          "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/paper/adc9eb6876fc555f3dc14e1bf25b845e",
+          "reason": "已获取原文并提取论文元数据"
+        },
+        "pdf": {
+          "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+          "status": "passed",
+          "checked_at": "2026-11-05T08:25:04.373949+00:00",
+          "bytes_read": 1024,
+          "final_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+          "http_status": 200,
+          "content_type": "application/octet-stream",
+          "reason": "已读取 PDF 文件头 %PDF-"
+        }
+      },
+      "acceptance": {
+        "status": "passed",
+        "scope": "自动基础检验",
+        "reasons": [
+          "标题、作者、摘要有原文证据，论文身份匹配，PDF 文件头验证通过；第二语言缺失不单独判失败",
+          "其余未提取字段仍待人工对照原文核查：title_en, authors_en, affiliations_en, funding_en, preview_url, citation_text, citation_text_en"
+        ]
+      }
+    },
+    "metadata": {
+      "title_zh": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+      "title": "SBAS-InSAR与GNSS技术耦合的青藏高原塘麦村滑坡形变监测分析",
+      "funding_zh": "国家自然科学基金项目（42477174）; 西藏自治区科技项目（XZ202601YD0002、XZ202402ZD0001）; 青海省基础研究计划项目（2024-ZJ-904）",
+      "funding": "国家自然科学基金项目（42477174）; 西藏自治区科技项目（XZ202601YD0002、XZ202402ZD0001）; 青海省基础研究计划项目（2024-ZJ-904）",
+      "doi": "10.13578/j.cnki.issn.1671-1556.20251080",
+      "authors_zh": [
+        "杨青青",
+        "温韬",
+        "王艳昆",
+        "薛阳",
+        "陈宁生"
+      ],
+      "authors": [
+        "杨青青",
+        "温韬",
+        "王艳昆",
+        "薛阳",
+        "陈宁生"
+      ],
+      "affiliations_zh": "长江大学地球科学学院 长江大学山地多灾害防控与工程安全国际科技合作基地",
+      "affiliations": "长江大学地球科学学院 长江大学山地多灾害防控与工程安全国际科技合作基地",
+      "abstract_zh": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+      "abstract": "为提升高海拔复杂地形区滑坡形变识别能力，以青藏高原塘麦村滑坡为例，集成多源监测技术，系统揭示其形变特征及影响因素。基于2020年1月至2024年12月获取的Sentinel-1A影像数据，采用小基线集干涉测量（small baseline subset interferometric synthetic aperture radar,SBAS-InSAR）技术反演地表形变信息，结合全球卫星导航系统（global navigation satellite system,GNSS）监测与无人机（unmanned aerial vehicle,UAV）影像进行交叉验证，并引入气象资料探讨滑坡变形影响机制。结果表明：塘麦村滑坡在雷达视线（line of sight,LOS）方向的年均形变速率范围为-11.67～8.56 mm/a（负值表示沉降），最大累计沉降量达55.61 mm，整体呈持续变形特征；M3与M7监测点形变显著且邻近公路，具有较高失稳风险；SBAS-InSAR与GNSS监测结果一致性良好（r>0.90,RMSE<3 mm）,UAV影像进一步验证了滑坡前缘与后缘的显著变形区。进一步分析表明，在地形地质条件与工程扰动背景下，降雨入渗与气温变化对滑坡变形演化具有一定影响。SBAS-InSAR技术在高海拔强起伏地区表现出良好的适用性，可为青藏高原滑坡监测与风险防控提供技术支撑。",
+      "abstract_en": "To improve landslide deformation identification in high-altitude areas with complex terrain, this study takes the Tangmai landslide on the Qinghai-Xizang Plateau as a case study and integrates multi-source monitoring techniques to systematically investigate its deformation characteristics and influencing factors. Based on Sentinel-1A image data acquired from January 2020 to December 2024, the small baseline subset interferometric synthetic aperture radar(SBAS-InSAR) technique was applied to retrieve surface deformation information. GNSS monitoring and unmanned aerial vehicle(UAV) imagery were combined for crossvalidation, and meteorological data were introduced to explore the influencing mechanisms of landslide deformation. The results show that the average annual deformation rate in the radar line-of-sight(LOS) direction ranges from-11. 67 to 8. 56 mm/a(negative values indicate subsidence), with a maximum cumulative settlement of 55. 61 mm, indicating a state of continuous deformation. Among the monitoring points, M3 and M7 exhibit pronounced deformation and are located close to the highway, suggesting a relatively high instability risk. The SBAS-InSAR and GNSS monitoring results exhibit good agreement, with correlation coefficients r>0. 90 and RMSE <3 mm. UAV imagery further confirms significant deformation zones at the leading and trailing edges of the landslide. The analysis indicates that under the background of topographic and geological conditions and engineering disturbances, rainfall infiltration and temperature variations have certain influences on the evolution of landslide deformation. The SBAS-InSAR technique demonstrates good applicability in high-altitude areas with strong topographic relief and can provide reliable technical support for landslide monitoring and risk mitigation on the Qinghai-Xizang Plateau.",
+      "keywords_zh": [
+        "塘麦村滑坡",
+        "小基线集干涉测量(SBAS-InSAR)",
+        "全球卫星导航系统(GNSS)",
+        "形变分析",
+        "影响因素"
+      ],
+      "keywords": [
+        "塘麦村滑坡",
+        "小基线集干涉测量(SBAS-InSAR)",
+        "全球卫星导航系统(GNSS)",
+        "形变分析",
+        "影响因素"
+      ],
+      "keywords_en": [
+        "Tangmai landslide",
+        "small baseline subset InSAR(SBAS-InSAR)",
+        "global navigation satellite system(GNSS)",
+        "landslide deformation",
+        "influencing factor"
+      ],
+      "pdf_url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1",
+      "download_links": [
+        {
+          "label": "PDF",
+          "format": "PDF",
+          "url": "https://ktaq.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/adc9eb6876fc555f3dc14e1bf25b845e/1"
+        }
+      ]
+    },
+    "manual_comparison": "原页全文菜单的downloadFull按钮已接入；本地下载代理带站点所需web_id，PDF文件头检查成功。"
+  },
+  {
+    "slug": "journal-of-safety-research",
+    "journal": "Journal of Safety Research",
+    "id": 799,
+    "title": "Anatomy of unintentional fatal drowning in a large metropolitan area",
+    "url": "https://doi.org/10.1016/j.jsr.2026.10.012",
+    "doi": "10.1016/j.jsr.2026.10.012",
+    "journal_id": 3,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:05.409606+00:00",
+      "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0022437526001970",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.jsr.2026.10.012",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S0022437526001970/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.jsr.2026.10.012",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Rohit P. Shenoi, Ned Levine, Shaila Zaman, Linh Nguyen, Elizabeth A. Camp. Anatomy of unintentional fatal drowning in a large metropolitan area[J]. Journal of Safety Research, 2026, 99: 463-470. DOI: 10.1016/j.jsr.2026.10.012.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Rohit P. Shenoi, Ned Levine, Shaila Zaman, Linh Nguyen, Elizabeth A. Camp. Anatomy of unintentional fatal drowning in a large metropolitan area[J]. Journal of Safety Research, 2026, 99: 463-470. DOI: 10.1016/j.jsr.2026.10.012.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jsr.2026.10.012"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "f534bc8e141e5290176194e16365745318185b5bd4bf6ebf96ed07bad993ddf3",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "accident-analysis-and-prevention",
+    "journal": "Accident Analysis & Prevention",
+    "id": 737,
+    "title": "Learning enhanced game theoretic decision-making for interaction-aware autonomous driving in urban traffic scenarios",
+    "url": "https://doi.org/10.1016/j.aap.2026.108843",
+    "doi": "10.1016/j.aap.2026.108843",
+    "journal_id": 4,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:13.037652+00:00",
+      "source_url": "https://doi.org/10.1016/j.aap.2026.108843",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0001457526004525",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.aap.2026.108843",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S0001457526004525/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.aap.2026.108843",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Shen Li, Haojie Gui, Kai Yang, Jianying Yang, Zhijun Chen, Anyou Wang, Xiaolin Tang. Learning enhanced game theoretic decision-making for interaction-aware autonomous driving in urban traffic scenarios[J]. Accident Analysis & Prevention, 2027, 240: 108843. DOI: 10.1016/j.aap.2026.108843.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Shen Li, Haojie Gui, Kai Yang, Jianying Yang, Zhijun Chen, Anyou Wang, Xiaolin Tang. Learning enhanced game theoretic decision-making for interaction-aware autonomous driving in urban traffic scenarios[J]. Accident Analysis & Prevention, 2027, 240: 108843. DOI: 10.1016/j.aap.2026.108843.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.aap.2026.108843"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "a70ac054330ba776dadce3564be40ca9f7c058ec295aa7b7cfd30dfd764dd805",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "process-safety-environmental-protection",
+    "journal": "Process Safety and Environmental Protection",
+    "id": 823,
+    "title": "Integrated conversion of phosphate-industry wastes to iron phosphate and lithium iron phosphate: process selection, impurity partitioning, and pollution-transfer control",
+    "url": "https://doi.org/10.1016/j.psep.2026.109864",
+    "doi": "10.1016/j.psep.2026.109864",
+    "journal_id": 5,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:13.113958+00:00",
+      "source_url": "https://doi.org/10.1016/j.psep.2026.109864",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957582026014825",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.psep.2026.109864",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.psep.2026.109864",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Tongyu Liu, Qingning Bai, Xiaoyan Zhao, Shiqian Yang, Shuo Cui, Jiayu Feng, Rui Cao, Ping Ning, Fang Wang, Lijuan Jia. Integrated conversion of phosphate-industry wastes to iron phosphate and lithium iron phosphate: process selection, impurity partitioning, and pollution-transfer control[J]. Process Safety and Environmental Protection, 2026: 109864. DOI: 10.1016/j.psep.2026.109864.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Tongyu Liu, Qingning Bai, Xiaoyan Zhao, Shiqian Yang, Shuo Cui, Jiayu Feng, Rui Cao, Ping Ning, Fang Wang, Lijuan Jia. Integrated conversion of phosphate-industry wastes to iron phosphate and lithium iron phosphate: process selection, impurity partitioning, and pollution-transfer control[J]. Process Safety and Environmental Protection, 2026: 109864. DOI: 10.1016/j.psep.2026.109864.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.psep.2026.109864"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "50f700163ac2ec120242918471219c40e842b06aa62dd245ff0386b30f94e46a",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "fire-safety-journal",
+    "journal": "Fire Safety Journal",
+    "id": 330,
+    "title": "Quantifying the Financial Consequences of Building Fire Incidents: A Unified Assessment Framework",
+    "url": "https://doi.org/10.1016/j.firesaf.2026.104976",
+    "doi": "10.1016/j.firesaf.2026.104976",
+    "journal_id": 6,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:13.326001+00:00",
+      "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0379711226003449",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.firesaf.2026.104976",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S0379711226003449/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.firesaf.2026.104976",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Y.H. Zhuang, E.S. Lin, X. Dai, M. Manes. Quantifying the Financial Consequences of Building Fire Incidents: A Unified Assessment Framework[J]. Fire Safety Journal, 2026: 104976. DOI: 10.1016/j.firesaf.2026.104976.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Y.H. Zhuang, E.S. Lin, X. Dai, M. Manes. Quantifying the Financial Consequences of Building Fire Incidents: A Unified Assessment Framework[J]. Fire Safety Journal, 2026: 104976. DOI: 10.1016/j.firesaf.2026.104976.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.firesaf.2026.104976"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "895ef2c3b01b536eca5dc15aea8e2862ff6e01cf10691f22df452451e56b9b53",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "journal-of-loss-prevention",
+    "journal": "Journal of Loss Prevention in the Process Industries",
+    "id": 747,
+    "title": "A statistically consistent Monte Carlo framework for reliable uncertainty and global sensitivity analysis in quantitative risk analysis",
+    "url": "https://doi.org/10.1016/j.jlp.2026.106237",
+    "doi": "10.1016/j.jlp.2026.106237",
+    "journal_id": 7,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:17.067313+00:00",
+      "source_url": "https://doi.org/10.1016/j.jlp.2026.106237",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0950423026003268",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.jlp.2026.106237",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S0950423026003268/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.jlp.2026.106237",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Mercedes Belda-Ley, Gürkan Sin. A statistically consistent Monte Carlo framework for reliable uncertainty and global sensitivity analysis in quantitative risk analysis[J]. Journal of Loss Prevention in the Process Industries, 2026: 106237. DOI: 10.1016/j.jlp.2026.106237.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Mercedes Belda-Ley, Gürkan Sin. A statistically consistent Monte Carlo framework for reliable uncertainty and global sensitivity analysis in quantitative risk analysis[J]. Journal of Loss Prevention in the Process Industries, 2026: 106237. DOI: 10.1016/j.jlp.2026.106237.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.jlp.2026.106237"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "content_sha256": "c8dc0ed5e4fb5ae6a06184ff2bda8331244080b62bcd337fa459b224a38a9a5c",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "页面未识别出论文标题或 DOI，可能为验证页或不支持的页面"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "international-journal-disaster-risk-reduction",
+    "journal": "International Journal of Disaster Risk Reduction",
+    "id": 824,
+    "title": "Targeting flood resilience investments through a readiness gaps index: Evidence from Mississippi",
+    "url": "https://doi.org/10.1016/j.ijdrr.2026.106471",
+    "doi": "10.1016/j.ijdrr.2026.106471",
+    "journal_id": 8,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:24.277205+00:00",
+      "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.ijdrr.2026.106471",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S2212420926004838/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.ijdrr.2026.106471",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Udit Bhatta, Narcisa G. Pricope, Krzysztof Raczynski, Gina Rico Mendez, Shrinidhi Ambinakudige. Targeting flood resilience investments through a readiness gaps index: Evidence from Mississippi[J]. International Journal of Disaster Risk Reduction, 2026, 146: 106471. DOI: 10.1016/j.ijdrr.2026.106471.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Udit Bhatta, Narcisa G. Pricope, Krzysztof Raczynski, Gina Rico Mendez, Shrinidhi Ambinakudige. Targeting flood resilience investments through a readiness gaps index: Evidence from Mississippi[J]. International Journal of Disaster Risk Reduction, 2026, 146: 106471. DOI: 10.1016/j.ijdrr.2026.106471.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.ijdrr.2026.106471"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "safety-and-health-at-work",
+    "journal": "Safety and Health at Work",
+    "id": 497,
+    "title": "The Invisible Burden of Office Work: A Dose-Response Analysis of Working Hours and Upper and Lower Extremity Musculoskeletal Pain in Korea (A Cross-sectional Analysis of the 7th Korean Working Conditions Survey)",
+    "url": "https://doi.org/10.1016/j.shaw.2026.07.004",
+    "doi": "10.1016/j.shaw.2026.07.004",
+    "journal_id": 9,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:24.406885+00:00",
+      "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1016/j.shaw.2026.07.004",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://www.sciencedirect.com/science/article/pii/S2093791126000600/pdfft?isDTMRedir=true&download=true",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1016/j.shaw.2026.07.004",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Dong-Woo Kim, Kyung-Jae Lee, June-Hee Lee. The Invisible Burden of Office Work: A Dose-Response Analysis of Working Hours and Upper and Lower Extremity Musculoskeletal Pain in Korea (A Cross-sectional Analysis of the 7th Korean Working Conditions Survey)[J]. Safety and Health at Work, 2026. DOI: 10.1016/j.shaw.2026.07.004.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Dong-Woo Kim, Kyung-Jae Lee, June-Hee Lee. The Invisible Burden of Office Work: A Dose-Response Analysis of Working Hours and Upper and Lower Extremity Musculoskeletal Pain in Korea (A Cross-sectional Analysis of the 7th Korean Working Conditions Survey)[J]. Safety and Health at Work, 2026. DOI: 10.1016/j.shaw.2026.07.004.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1016/j.shaw.2026.07.004"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "fire-technology",
+    "journal": "Fire Technology",
+    "id": 790,
+    "title": "Investigation on the System Performance and Fire Extinguishing Performance of Compressed Air Foam System Under Varied Altitudes",
+    "url": "https://doi.org/10.1007/s10694-026-01935-x",
+    "doi": "10.1007/s10694-026-01935-x",
+    "journal_id": 10,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:24.490099+00:00",
+      "source_url": "https://doi.org/10.1007/s10694-026-01935-x",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1007/s10694-026-01935-x",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://link.springer.com/content/pdf/10.1007/s10694-026-01935-x.pdf",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1007/s10694-026-01935-x",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Yi Guo, Jiaqing Zhang, Guocheng Ding, Youjie Sheng, Shouxiang Lu, Yang Li. Investigation on the System Performance and Fire Extinguishing Performance of Compressed Air Foam System Under Varied Altitudes[J]. Fire Technology, 2026, 62(5). DOI: 10.1007/s10694-026-01935-x.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Yi Guo, Jiaqing Zhang, Guocheng Ding, Youjie Sheng, Shouxiang Lu, Yang Li. Investigation on the System Performance and Fire Extinguishing Performance of Compressed Air Foam System Under Varied Altitudes[J]. Fire Technology, 2026, 62(5). DOI: 10.1007/s10694-026-01935-x.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1007/s10694-026-01935-x"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：可读；原页有标题、作者、摘要及引用下载。PDF提示购买或机构权限。"
+  },
+  {
+    "slug": "risk-analysis",
+    "journal": "Risk Analysis",
+    "id": 825,
+    "title": "Virtual Flood Experience Enhances Preparedness Through Emotional and Neural Engagement",
+    "url": "https://doi.org/10.1111/risa.70407",
+    "doi": "10.1111/risa.70407",
+    "journal_id": 11,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:24.748467+00:00",
+      "source_url": "https://doi.org/10.1111/risa.70407",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1111/risa.70407",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/risa.70407",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1111/risa.70407",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Toshio Fujimi, Takanori Kochiyama, Wataru Sato, Masahide Watanabe. Virtual Flood Experience Enhances Preparedness Through Emotional and Neural Engagement[J]. Risk Analysis, 2026, 46(11). DOI: 10.1111/risa.70407.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Toshio Fujimi, Takanori Kochiyama, Wataru Sato, Masahide Watanabe. Virtual Flood Experience Enhances Preparedness Through Emotional and Neural Engagement[J]. Risk Analysis, 2026, 46(11). DOI: 10.1111/risa.70407.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1111/risa.70407"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  },
+  {
+    "slug": "occupational-environmental-medicine",
+    "journal": "Occupational and Environmental Medicine",
+    "id": 826,
+    "title": "Short-term changes in depressive symptoms after the transition from paid employment to retirement: a fixed-effects analysis among 8560 workers from 29 countries",
+    "url": "https://doi.org/10.1136/oemed-2025-110648",
+    "doi": "10.1136/oemed-2025-110648",
+    "journal_id": 12,
+    "audit": {
+      "agent": "publisher-metadata-audit-v1",
+      "checked_at": "2026-11-05T08:25:37.916101+00:00",
+      "source_url": "https://doi.org/10.1136/oemed-2025-110648",
+      "final_url": "",
+      "status": "unavailable",
+      "fields": {
+        "title_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "title_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "authors_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "authors_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "affiliations_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "affiliations_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "funding_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "funding_en": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "abstract_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "abstract_en": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "keywords_zh": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "keywords_en": {
+          "status": "unavailable",
+          "stored_value": [],
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "doi": {
+          "status": "unavailable",
+          "stored_value": "10.1136/oemed-2025-110648",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "pdf_url": {
+          "status": "unavailable",
+          "stored_value": "",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "preview_url": {
+          "status": "unavailable",
+          "stored_value": "https://doi.org/10.1136/oemed-2025-110648",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "citation_text": {
+          "status": "unavailable",
+          "stored_value": "Riccardo Orrù, Robert Ciliacus, Merel Schuring, Alex Burdorf, Fabio Porru. Short-term changes in depressive symptoms after the transition from paid employment to retirement: a fixed-effects analysis among 8560 workers from 29 countries[J]. Occupational and Environmental Medicine, 2026: oemed-2025-110648. DOI: 10.1136/oemed-2025-110648.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "citation_text_en": {
+          "status": "unavailable",
+          "stored_value": "Riccardo Orrù, Robert Ciliacus, Merel Schuring, Alex Burdorf, Fabio Porru. Short-term changes in depressive symptoms after the transition from paid employment to retirement: a fixed-effects analysis among 8560 workers from 29 countries[J]. Occupational and Environmental Medicine, 2026: oemed-2025-110648. DOI: 10.1136/oemed-2025-110648.",
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        },
+        "download_links": {
+          "status": "unavailable",
+          "stored_value": null,
+          "source_value": null,
+          "evidence": "",
+          "source_url": "https://doi.org/10.1136/oemed-2025-110648"
+        }
+      },
+      "missing": [],
+      "conflicts": [],
+      "errors": [
+        "HTTP Error 403: Forbidden"
+      ],
+      "link_check": "链接仅核对是否出现在原文，未验证下载权限或文件内容",
+      "acceptance": {
+        "status": "blocked",
+        "reasons": [
+          "HTTP Error 403: Forbidden"
+        ]
+      }
+    },
+    "metadata": {},
+    "manual_comparison": "原页浏览：受阻，不能完成内容对照"
+  }
+]

@@ -283,7 +283,12 @@ async function mergeSnapshot(papers, meta) {
   if (toPut.length) {
     const store = tx('papers', 'readwrite');
     toPut.forEach(p => store.put(p));
-    await reqP(store.transaction);
+    await new Promise((resolve, reject) => {
+      const t = store.transaction;
+      t.oncomplete = () => resolve();
+      t.onerror = () => reject(t.error);
+      t.onabort = () => reject(t.error || new Error('indexeddb transaction aborted'));
+    });
     state.papers = Array.from(byKey.values());
   }
   if (meta && meta.exported_at) await idbPut('meta', { k: 'snapshot', v: meta });
@@ -778,7 +783,7 @@ function exportPapers(items, fmt) {
     Number(it.citation_count) || 0, it.first_seen_at || ''
   ]);
   const csv = [header].concat(rows).map(r => r.map(c => '"' + String(c).replace(/"/g, '""') + '"').join(',')).join('\n');
-  download('safelens-web-' + todayStr() + '.csv', '﻿' + csv, 'text/csv');
+  download('safelens-web-' + todayStr() + '.csv', '\ufeff' + csv, 'text/csv');
 }
 
 // ---------------- 模态框 ----------------
